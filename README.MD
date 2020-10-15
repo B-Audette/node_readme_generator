@@ -10,7 +10,7 @@
 
   [Repository](https://github.com/B-Audette/node_readme_generator)
 
- # Support Team
+ ## Support Team
   This project was worked on with assistance from:
 
   [Amanda Anderson](https://github.com/aanderson120)
